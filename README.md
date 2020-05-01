@@ -1,8 +1,6 @@
 # be-the-hero-api
 
-Aplicação mobile que adiciona repositórios fictícios em uma lista. Ela trabalha em conjunto com o projeto [conceitos-nodejs](https://github.com/LucasMorais582/conceitos-nodejs) - aplicação back-end que realiza o suporte para criação das funcionalidades.
-
-Aplicação back-end que trabalha servindo as aplicações [web]() e [mobile]() do produto be the hero.
+Aplicação back-end que trabalha servindo as aplicações [web](https://github.com/LucasMorais582/be-the-hero-web) e [mobile](https://github.com/LucasMorais582/be-the-hero-mobile) do produto be the hero.
 
 # Mas o que é o be the hero ?
 
@@ -10,7 +8,7 @@ Aplicação back-end que trabalha servindo as aplicações [web]() e [mobile]() 
 
 ## Tecnologias
 
-- Yarn Package
+- Npm Package
 - NodeJs
 - Jest
 - Axios
@@ -24,7 +22,7 @@ Aplicação back-end que trabalha servindo as aplicações [web]() e [mobile]() 
 
 Clonando o projeto
 ```
-git clone https://github.com/LucasMorais582/be-the-hero.git
+git clone https://github.com/LucasMorais582/be-the-hero-api.git
 ```
 Após acessar o diretório do projeto, rodar o comando no terminal para baixar a node_modules:
 ```
